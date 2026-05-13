@@ -29,5 +29,7 @@ Ready to take back control of your community and permanently defeat the spammers
 🤖 **Upgrade your group security today!**
 Simply add the bot to your group, promote it to Admin, and type /settings to build your ultimate defense system.
 
+[Link Cleaneer](https://t.me/linkcleaneerbot)
+
 *Protect your members. Secure your chat. Let Link Cleaneer do the heavy lifting.* 💪
 
